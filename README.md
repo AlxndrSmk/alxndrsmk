@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Alexander, Frontend Developer.
 
 ![](https://komarev.com/ghpvc/?username=AlxndrSmk)
-### Contact me:
+### Feel free to contact me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexander-samak-0141a6235/">
