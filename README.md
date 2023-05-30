@@ -1,14 +1,14 @@
 ### Hi there! 👋 I'm Alexander, Frontend Developer.
 
 ![](https://komarev.com/ghpvc/?username=AlxndrSmk)
+<a href="https://www.codewars.com/users/rsschool_6dc4d66d52600018" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/rsschool_6dc4d66d52600018/badges/micro"/></a>
 ### Feel free to contact me:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alexander-samak-0141a6235/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px" alt="LinkedIn"/>
-  </a>
   <a href="https://discordapp.com/users/979113465266438144/">
     <img src="https://cdn-icons-png.flaticon.com/512/2582/2582637.png" width="26px" alt="Discord"/>
+    <a href="https://www.linkedin.com/in/alexander-samak-0141a6235/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ###  Skills:
