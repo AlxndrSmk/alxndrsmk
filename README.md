@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Alexander%2C+Frontend+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Alexander%2C+Senior+Frontend+Developer.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=AlxndrSmk)
 <a href="https://www.codewars.com/users/rsschool_6dc4d66d52600018" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/rsschool_6dc4d66d52600018/badges/micro"/></a>
