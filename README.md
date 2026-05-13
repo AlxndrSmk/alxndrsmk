@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Alexander%2C+Senior+Frontend+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Alexander%2C+Frontend+Developer.)](https://git.io/typing-svg)
 
 **Mentor** @ RSSchool  
 **Lead Instructor: React.js Developer Course** @ Otus
